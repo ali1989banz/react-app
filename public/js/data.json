@@ -1,0 +1,100 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+  "protfolio": [
+    {
+      "id": 1,
+      "image": "/images/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/portfolio-img4.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/portfolio-img8.jpg"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa-brands fa-facebook-f fa-lg",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa-brands fa-twitter fa-lg",
+      "title": "Tweet Me on",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa-brands fa-pinterest-p fa-lg",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ],
+  "profile": {
+    "name": "ali",
+    "birth": 2006,
+    "adress": "baghdad",
+    "phone": "07735762226",
+    "email": "aaksb813@gmail.com",
+    "skills": [
+      {
+        "id":1,
+        "title": "react",
+        "per": "90%"
+      },
+      {
+        "id":2,
+        "title": "css",
+        "per": "100%"
+      },
+      {
+        "id":3,
+        "title": "js",
+        "per": "80%"
+      }
+    ]
+  }
+}
